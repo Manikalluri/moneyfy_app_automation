@@ -4,7 +4,7 @@ moneyfy_app_automation contains front end simulation using python
 
 
 ## Packages to be installed
-pip3 install selenium
+pip3 install selenium,
 pip install appium-python-client
 
 
