@@ -48,7 +48,7 @@ class TestMoneyfy(BaseTestCase):
         finally:
             print_log("Entered finally")
             time.sleep(3)
-    def test2_verify_expense(self):
+    def test2_verify_expense_income_balance(self):
         '''Test Case 2:  '''
         """ This method performs Test Case to Verify added expense and income and remaining balance """
 
@@ -111,7 +111,7 @@ class TestMoneyfy(BaseTestCase):
 def main():
     TestCases = [
         'test1_verify_change_of_currency',
-        'test2_verify_expense'
+        'test2_verify_expense_income_balance'
 
     ]
     GlobalVar.Suite = unittest.TestSuite(map(TestMoneyfy, TestCases))
