@@ -1,12 +1,19 @@
 # moneyfy_app_automation
-# moneyfy-test-automation
 moneyfy_app_automation contains front end simulation using python
+
+# tools required
+`android studio for uiautomator`
+`appium server GUI`
+`node js`
+`java`
 
 
 ## Packages to be installed
 pip3 install selenium,
 pip install appium-python-client
 
+`how to run`
+navigate to testsuites and run test_monefy_ui.py from terminal
 
 ## Project structure
 
