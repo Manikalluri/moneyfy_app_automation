@@ -7,6 +7,8 @@ moneyfy_app_automation contains front end simulation using python
 `node js`
 `java`
 
+#test report in debug log will have the overall testreport like how many passed and failed with details
+
 # used ui automator for getting resources like id,xpath.
 
 ## Packages to be installed
