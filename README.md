@@ -23,5 +23,5 @@ branch master
     |
 |	|_ testsuites ( test case scripts)
 |
-|_ debug_logs (Python debug logs)
+|_ debug_logs (Python debug logs and testreport)
 ```
