@@ -1,7 +1,7 @@
 # moneyfy_app_automation
 moneyfy_app_automation contains front end simulation using python
 
-#Framework Used
+# Framework Used
 `Unittest framework`
 Python unit testing framework supports test automation, sharing of setup and shutdown code for tests, aggregation of tests into collections, and independence of the tests from the reporting framework
 `Page Object Model` and `Page Factory` using Appium.
